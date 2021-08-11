@@ -43,6 +43,7 @@ make an app with complex design, managing different screens, data models, managi
 - Design to App
 - State? What’s that?
 - Basic day to day widgets
+
 [Day 2 project file can be found here!](https://github.com/ImranSefat/Software-Development-with-Flutter/tree/main/day_2)
 
 ## Day 3 
