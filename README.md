@@ -28,6 +28,7 @@ compiled applications for mobile, web, and desktop from a single codebase. In th
 - Project structure breakdown
 
 [Day 1 project file can be found here!](https://github.com/ImranSefat/Software-Development-with-Flutter/tree/main/day_1)
+
 [Video of Workshop day 1](https://drive.google.com/file/d/10FAcnF20ZiF19qRXQC0jhaKpvr922S0F/view?usp=sharing)
 
 
@@ -46,6 +47,7 @@ make an app with complex design, managing different screens, data models, managi
 - Basic day to day widgets
 
 [Day 2 project file can be found here!](https://github.com/ImranSefat/Software-Development-with-Flutter/tree/main/day_2)
+
 [Video of Workshop day 2](https://drive.google.com/file/d/1Um4HebRdJOHW3ODb3a2YmD6SOUrFTTm7/view?usp=sharing)
 
 ## Day 3 
@@ -62,6 +64,7 @@ provided by NASA to make an app where each day a different image or photograph o
 - Making the whole app from scratch using the created Data model
 
 [Day 3 project file can be found here!](https://github.com/ImranSefat/Software-Development-with-Flutter/tree/main/day_3)
+
 [Video of Workshop day 3](https://drive.google.com/file/d/1jVdw_tiClXTO5_bEvF3QAR0A5NO8SKlW/view?usp=sharing)
 
 
